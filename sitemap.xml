@@ -7,25 +7,19 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://ushamkamaljitsingh.github.io/xyber-landing-page/</loc>
-        <lastmod>2024-10-26</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://ushamkamaljitsingh.github.io/docs/homepage.html</loc>
+        <loc>https://ushamkamaljitsingh.github.io/homepage.html</loc>
         <lastmod>2024-10-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://ushamkamaljitsingh.github.io/docs/privacy-policy.html</loc>
+        <loc>https://ushamkamaljitsingh.github.io/privacy-policy.html</loc>
         <lastmod>2024-10-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://ushamkamaljitsingh.github.io/docs/terms-of-service.html</loc>
+        <loc>https://ushamkamaljitsingh.github.io/terms-of-service.html</loc>
         <lastmod>2024-10-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
